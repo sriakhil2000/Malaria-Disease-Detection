@@ -1,4 +1,4 @@
-# Malaria-Disease-Detection
+# Malaria-Disease Detection
 This repository contains the Jupyter Notebooks to train custom CNNs and extract features from the underlying data using pretrained models applied to the challenge of Malaria Cell classification.
 
 # Pre-trained convolutional neural networks as feature extractors toward improved malaria parasite detection in thin blood smear images
